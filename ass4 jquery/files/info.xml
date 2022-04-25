@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+	<cv>
+	<person id="1">
+		<name>Om Mapari</name>
+		<age>21</age>
+		<address>Matruchaya Hostel Pune, Maharashtra, 411046</address>
+		<phone>8989898989</phone>
+		<email>mapariom05@gmail.com</email>
+		<status>Single</status>
+		<aboutMe>My key qualifications are mobile application development, project management, innovation and smart solutions. I have good experience with commersial Android application development.</aboutMe>
+		<contactInfo>Thank you for taking a look at my web app resume. Please contact me for more information.</contactInfo>
+	</person>
+	</cv>
